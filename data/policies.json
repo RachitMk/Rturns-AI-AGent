@@ -1,0 +1,42 @@
+{
+  "apparel": {
+    "return_window_days": 30,
+    "allow_opened": true,
+    "allowed_outcomes": ["refund", "exchange"],
+    "notes": "Apparel items can be returned within 30 days even if opened, provided they are unused."
+  },
+
+  "electronics": {
+    "return_window_days": 14,
+    "allow_opened": false,
+    "allowed_outcomes": ["exchange", "manual_review"],
+    "notes": "Electronics must be unopened. Opened items require manual review."
+  },
+
+  "home": {
+    "return_window_days": 14,
+    "allow_opened": true,
+    "allowed_outcomes": ["refund", "exchange"],
+    "notes": "Home items can be returned within 14 days if in usable condition."
+  },
+
+  "final_sale": {
+    "return_window_days": 0,
+    "allow_opened": false,
+    "allowed_outcomes": ["deny"],
+    "notes": "Final sale items are not eligible for returns."
+  },
+
+  "special_cases": {
+    "damaged_on_arrival": {
+      "return_window_days": 7,
+      "allowed_outcomes": ["refund"],
+      "notes": "Items damaged on arrival are eligible for full refund within 7 days."
+    },
+
+    "late_delivery": {
+      "allowed_outcomes": ["store_credit"],
+      "notes": "Late deliveries are compensated with store credit."
+    }
+  }
+}

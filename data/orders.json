@@ -1,0 +1,243 @@
+[
+  {
+    "order_id": "ORD-1001",
+    "customer_id": "CUST-001",
+    "order_date": "2025-01-02",
+    "delivery_date": "2025-01-05",
+    "customer_tier": "gold",
+    "items": [
+      {
+        "item_id": "ITEM-001",
+        "item_name": "Running Shoes",
+        "category": "apparel",
+        "price": 3499,
+        "final_sale": false
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-1002",
+    "customer_id": "CUST-002",
+    "order_date": "2025-01-01",
+    "delivery_date": "2025-01-04",
+    "customer_tier": "silver",
+    "items": [
+      {
+        "item_id": "ITEM-002",
+        "item_name": "Bluetooth Headphones",
+        "category": "electronics",
+        "price": 5999,
+        "final_sale": false
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-1003",
+    "customer_id": "CUST-003",
+    "order_date": "2024-12-10",
+    "delivery_date": "2024-12-15",
+    "customer_tier": "regular",
+    "items": [
+      {
+        "item_id": "ITEM-003",
+        "item_name": "Winter Jacket",
+        "category": "apparel",
+        "price": 7999,
+        "final_sale": false
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-1004",
+    "customer_id": "CUST-004",
+    "order_date": "2025-01-03",
+    "delivery_date": "2025-01-06",
+    "customer_tier": "regular",
+    "items": [
+      {
+        "item_id": "ITEM-004",
+        "item_name": "Electric Kettle",
+        "category": "home",
+        "price": 2299,
+        "final_sale": false
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-1005",
+    "customer_id": "CUST-005",
+    "order_date": "2024-11-20",
+    "delivery_date": "2024-11-25",
+    "customer_tier": "gold",
+    "items": [
+      {
+        "item_id": "ITEM-005",
+        "item_name": "Smart Watch",
+        "category": "electronics",
+        "price": 12999,
+        "final_sale": false
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-1006",
+    "customer_id": "CUST-006",
+    "order_date": "2025-01-07",
+    "delivery_date": "2025-01-09",
+    "customer_tier": "regular",
+    "items": [
+      {
+        "item_id": "ITEM-006",
+        "item_name": "Yoga Mat",
+        "category": "home",
+        "price": 999,
+        "final_sale": false
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-1007",
+    "customer_id": "CUST-007",
+    "order_date": "2024-12-01",
+    "delivery_date": "2024-12-06",
+    "customer_tier": "silver",
+    "items": [
+      {
+        "item_id": "ITEM-007",
+        "item_name": "Leather Wallet",
+        "category": "final_sale",
+        "price": 1499,
+        "final_sale": true
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-1008",
+    "customer_id": "CUST-008",
+    "order_date": "2025-01-05",
+    "delivery_date": "2025-01-08",
+    "customer_tier": "gold",
+    "items": [
+      {
+        "item_id": "ITEM-008",
+        "item_name": "Formal Shirt",
+        "category": "apparel",
+        "price": 1999,
+        "final_sale": false
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-1009",
+    "customer_id": "CUST-009",
+    "order_date": "2024-12-20",
+    "delivery_date": "2024-12-24",
+    "customer_tier": "regular",
+    "items": [
+      {
+        "item_id": "ITEM-009",
+        "item_name": "Air Fryer",
+        "category": "home",
+        "price": 8999,
+        "final_sale": false
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-1010",
+    "customer_id": "CUST-010",
+    "order_date": "2025-01-06",
+    "delivery_date": "2025-01-10",
+    "customer_tier": "silver",
+    "items": [
+      {
+        "item_id": "ITEM-010",
+        "item_name": "Sports T-Shirt",
+        "category": "apparel",
+        "price": 1299,
+        "final_sale": false
+      }
+    ]
+  },
+
+  {
+    "order_id": "ORD-1011",
+    "customer_id": "CUST-011",
+    "order_date": "2024-12-28",
+    "delivery_date": "2025-01-02",
+    "customer_tier": "regular",
+    "items": [
+      {
+        "item_id": "ITEM-011",
+        "item_name": "Wireless Mouse",
+        "category": "electronics",
+        "price": 799,
+        "final_sale": false
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-1012",
+    "customer_id": "CUST-012",
+    "order_date": "2024-11-15",
+    "delivery_date": "2024-11-20",
+    "customer_tier": "gold",
+    "items": [
+      {
+        "item_id": "ITEM-012",
+        "item_name": "Running Jacket",
+        "category": "apparel",
+        "price": 4599,
+        "final_sale": false
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-1013",
+    "customer_id": "CUST-013",
+    "order_date": "2025-01-08",
+    "delivery_date": "2025-01-11",
+    "customer_tier": "silver",
+    "items": [
+      {
+        "item_id": "ITEM-013",
+        "item_name": "Coffee Grinder",
+        "category": "home",
+        "price": 3499,
+        "final_sale": false
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-1014",
+    "customer_id": "CUST-014",
+    "order_date": "2024-12-05",
+    "delivery_date": "2024-12-10",
+    "customer_tier": "regular",
+    "items": [
+      {
+        "item_id": "ITEM-014",
+        "item_name": "Gaming Keyboard",
+        "category": "electronics",
+        "price": 4999,
+        "final_sale": false
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-1015",
+    "customer_id": "CUST-015",
+    "order_date": "2024-10-10",
+    "delivery_date": "2024-10-15",
+    "customer_tier": "regular",
+    "items": [
+      {
+        "item_id": "ITEM-015",
+        "item_name": "Travel Backpack",
+        "category": "final_sale",
+        "price": 6999,
+        "final_sale": true
+      }
+    ]
+  }
+]
